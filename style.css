@@ -1,0 +1,29 @@
+body {
+	background:#C0C0C0;
+	}
+	
+h1 {
+	font-family: 'Gloria Hallelujah', cursive;
+	text-align: center;
+	}
+	
+#water_pic {
+	background-image: url('water.gif');
+	
+	
+	}
+	
+
+#about {
+	font-size: 1.3em;
+	margin: 20px 0px;
+	float: left;
+}
+
+#about p {
+	background: #d2b14e;
+	padding: 20px;
+	font-style: italic;
+	font-size: 0.9em;
+}
+
